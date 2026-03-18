@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mixlib-shellout (2.0.1)
+    thor (0.19.1)
+    thor-scmversion (1.7.0)
+      mixlib-shellout
+      thor
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  thor-scmversion
